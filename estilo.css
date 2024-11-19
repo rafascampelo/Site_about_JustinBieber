@@ -1,0 +1,424 @@
+/* verde: #30b695
+   roxo:#6c243c	*/  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                
+/* fundos */
+
+.telaprincipal	
+		{	background-image: url("arquivos png e jpg/FUNDO HOME.png");
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-attachment: fixed;
+			
+
+				}
+
+
+.tela2	
+		{	background-image: url("arquivos png e jpg/tela2.png");
+			background-position: center center;
+			background-repeat:no-repeat;
+			background-size: cover;
+			background-attachment: fixed;
+				}
+
+
+.tela3
+	{background-image: url("arquivos png e jpg/fundoalbuns6.png");
+		background-position: center center;
+		background-repeat:no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+				}
+.tela5
+	{background-image: url("arquivos png e jpg/toursfundo2.png");
+		background-position: center center;
+		background-repeat:no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+				}
+.tela4
+	{background-image: url("arquivos png e jpg/tela4.png");
+		background-position: center center;
+		background-repeat:no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+				}
+				
+				
+.myworld
+	{background-image: url("arquivos png e jpg/myworld3.png");
+		background-position: center center;
+		background-repeat:no-repeat;
+		background-size: cover;
+		background-attachment: scroll;
+				}
+.purpose2
+	{background-image: url("arquivos png e jpg/purpose edit.png");
+		background-position: center center;
+		background-repeat:no-repeat;
+		background-size: cover;
+		background-attachment: scroll;
+				}
+.under
+	{background-image: url("arquivos png e jpg/fundomistletoedisco2.png");
+		background-position: center center;
+		background-repeat:no-repeat;
+		background-size: cover;
+		background-attachment: scroll;
+				}				
+.BV	{
+		background-image: url("arquivos png e jpg/believedisco2.png");
+		background-position: center center;
+		background-repeat:no-repeat;
+		background-size: cover;
+		background-attachment: scroll;
+	
+				}		
+.jour	{
+		background-image: url("arquivos png e jpg/journalsdisco3.png");
+		background-position: center center;
+		background-repeat:no-repeat;
+		background-size: cover;
+		background-attachment: scroll;
+	
+				}				
+
+.cha	{
+		background-image: url("arquivos png e jpg/fundochangesdisco.png");
+		background-position: center center;
+		background-repeat:no-repeat;
+		background-size: cover;
+		background-attachment: scroll;
+	
+				}				
+.ju	{
+		background-image: url("arquivos png e jpg/justicedisco9.png");
+		background-position: center center;
+		background-repeat:no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	
+				}							
+				
+.world 	{
+	background-color: #982c04;
+				}
+				
+				
+.world2 	{
+	background-color: #5d2c85;
+				}
+
+.underthemistletoe	{
+		background-image: url("arquivos png e jpg/funderunder2.png");
+		background-position: center center;
+		background-repeat:no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	
+				}
+
+
+.believe 	{
+	background-color: #e8bb24;
+				}
+
+.journals	{
+	background-color: #d236c1;
+				}
+.purpose	{
+	background-color: #3e3e3c;
+				}
+.changes	{
+	background-color: #b12b1f;
+				}
+.justice	{
+	background-color:#3f3f3f;
+				}
+
+
+
+/* textos */
+
+.textovertical{
+	color: white;
+
+}
+
+
+.Justin{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+	text-decoration: none;
+	}	
+.jb{
+  text-align: center;
+  color: black;
+  font-weight: bold;
+	}	
+
+.preto{
+  color: black;
+  font-weight: bold;
+	}	
+	
+.link{
+	color:black;
+}
+
+h2{
+	color: white;
+	font-family: Palatino;
+		}
+		
+.rf {
+text-align: right;
+ color:white ;
+font-weight: bold;
+}
+
+.rfp {
+text-align: right;
+ color: black;
+font-weight: bold;
+}
+
+.rfc {
+ color:#9aa383;
+ font-weight: bold;
+}
+
+.rfc2 {
+	text-align: right;
+ color:#9aa383;
+ font-weight: bold;
+}
+
+.rf2 {
+
+text-decoration: none;
+ color: white;
+font-weight: bold;
+
+}
+
+.rfj {
+	color: #13ece7;
+font-weight: bold
+}
+
+.aw {
+
+ color: white;
+font-weight: bold;
+text-decoration: none
+}
+.awj {
+
+ color: white;
+font-weight: bold;
+background-color:#d236c1;
+}
+	
+	.aw2 {
+
+ color: white;
+font-weight: bold;
+font-family: Lucida Bright;
+}
+	.aw3 {
+
+ color: black;
+font-weight: bold;
+text-decoration: none;
+}
+
+.cg {
+	 color: white;
+font-weight: bold;
+font-family: Cambria;
+}
+
+.cg2 {
+
+ color: white;
+font-weight: bold;
+background-color:#b12b1f;
+}
+
+.jut{
+
+ color: #08fdf8;
+font-weight: bold;
+}
+
+.cia{
+
+ color: #07ceca;
+font-weight: bold;
+}
+.azul{
+
+ color: #06b3af;
+font-weight: bold;
+text-decoration: none;
+}
+.final{
+
+ color: #048e8b;
+font-weight: bold;
+}
+.final2{
+
+ color: #036b69;
+font-weight: bold;
+}
+.final3{
+
+ color: #024140;
+font-weight: bold;
+}
+ 
+.dh{
+
+ color: white;
+font-weight: bold;
+text-align: justify;
+}
+.ts{
+ text-align: center; 
+ color: white;
+font-weight: bold;
+
+}
+
+
+/* cor dos textos pgn albuns*/
+
+
+
+
+.world2text {
+	 color: white;
+	 font-weight: bold;
+	text-decoration: none;
+	background-color: #5d2c85;
+
+}
+
+.worldtext {
+	 color: #982c04;
+	 font-weight: bold;
+	text-decoration: none;
+	background-color: white;
+}
+
+
+.mistletoetext {
+	 color: #a21815;
+	 font-weight: bold;
+	text-decoration: none;
+	background-color: #c3c3c3 ;
+}
+
+
+
+.believetext {
+	 color: #e8bb24;
+	 font-weight: bold;
+	text-decoration: none;
+	background-color: black;
+}
+
+
+.journalstext {
+	 color: #d236c1;
+	 font-weight: bold;
+	text-decoration: none;
+	background-color: white;
+}
+
+
+.purposetext {
+	 color: black;
+	 font-weight: bold;
+	text-decoration: none;
+	background-color:  #3e3e3c ;
+}
+
+.changestext {
+	 color:  white;
+	 font-weight: bold;
+	text-decoration: none;
+	background-color:  #b12b1f;
+}
+
+
+.justicetext {
+	 color: #13ece7;
+	 font-weight: bold;
+	text-decoration: none;
+	background-color: #3f3f3f ;
+}
+
+
+
+/* imagens do site*/
+
+	
+
+
+/* menus e logo
+
+*/ 
+
+.logo{
+	color: WHITE;
+      float: left;
+      display: block;
+      padding: 9px 19px;
+ 	position: fixed;
+	text-decoration: none;
+		}
+
+.menu{
+	margin:-10px -10;
+	font-weight: bold;	
+      overflow: hidden;
+      position: fixed;
+      width: 100%; 
+
+		 } 
+
+
+.menu ul{
+	margin:0px -20;
+	padding: 0px;
+	background-color: #30b695;
+	overflow: hidden;
+	}
+.menu li{
+	display: inline;
+	float: right;
+		}
+.menu li a{
+	display: block;
+	color: white;
+	padding: 20px 70px;
+	text-decoration: none;
+		}
+.menu li a:hover{
+	background-color:#6c243c;
+	}
+.menu li.active{
+	background-color:#6c243c;
+	}
+
+
+
+
+
+
